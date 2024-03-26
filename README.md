@@ -5,4 +5,4 @@
 #### Основные навыки, отработанные в этой программе:
 - Реализация поведенческих шаблонов проектирования "Observer" и "Mediator"
 - Работа с виджетами фреймворка Qt: QGridLayout, QPushButton, QLabel, QTableWidjet, QLineEdit, QFormLayout, QMenuBar
-
+- Работа с классами
